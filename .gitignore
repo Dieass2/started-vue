@@ -1,0 +1,20 @@
+# Зависимости
+/node_modules
+/vendor
+/target
+
+# Логи и кэш
+*.log
+*.tmp
+.cache/
+
+# Конфигурация
+.env
+1.txt
+
+# MacOS файлы
+.DS_Store
+
+# Go / исполняемые файлы
+*.exe
+*.bin
